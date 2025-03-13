@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #f4f4f4; /* Light background */
+}
+
+.container {
+    text-align: center;
+    background-color: #e7dcdc;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(194, 33, 33, 0.1);
+}
+
+.profile-icon {
+    font-size: 5em;
+    margin-bottom: 20px;
+}
+
+.info {
+    text-align: center;
+    margin: 20px auto;
+    width: 250px; /* Adjust width as needed */
+}
+
+.info p {
+    margin: 10px 0;
+}
+
